@@ -1,0 +1,13 @@
+# Python, Jupyter 일반 설정
+__pycache__/
+*.pyc
+*.pyo
+*.ipynb_checkpoints
+
+# 데이터, 로그
+data/
+monitoring/
+
+# 키, 인증 정보
+keys/
+
