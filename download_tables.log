@@ -1,0 +1,222 @@
+2025-10-08 21:27:23,571 - WARNING - Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
+2025-10-08 21:27:27,483 - WARNING - Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
+2025-10-08 21:27:29,419 - WARNING - Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: [Errno 64] Host is down
+2025-10-08 21:27:29,420 - WARNING - Authentication failed using Compute Engine authentication due to unavailable metadata server.
+2025-10-08 21:54:15,589 - WARNING - Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
+2025-10-08 21:54:19,664 - WARNING - Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
+2025-10-08 21:54:21,498 - WARNING - Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: [Errno 64] Host is down
+2025-10-08 21:54:21,500 - WARNING - Authentication failed using Compute Engine authentication due to unavailable metadata server.
+2025-10-08 22:05:57,241 - ERROR - ❌ BigQuery 인증 실패: File /Users/jun/GitStudy/commerceAB/keys/key.json was not found.
+2025-10-08 22:07:52,242 - ERROR - ❌ BigQuery 인증 실패: 400 POST https://bigquery.googleapis.com/bigquery/v2/projects/PromotionAB/jobs?prettyPrint=false: ProjectId must be non-empty
+
+Location: None
+Job ID: 845f513c-1997-44d0-97d5-a6009af91087
+
+2025-10-08 22:10:09,857 - INFO - ✅ BigQuery 인증 성공
+2025-10-08 22:10:10,214 - WARNING - ⚠️ inventory_items 다운로드 실패 (시도 1): 400 POST https://bigquery.googleapis.com/bigquery/v2/projects/PromotionAB/jobs?prettyPrint=false: ProjectId must be non-empty
+
+Location: None
+Job ID: 9c352f09-0cbb-4561-ae34-d825c71f454a
+
+2025-10-08 22:10:10,225 - WARNING - ⚠️ products 다운로드 실패 (시도 1): 400 POST https://bigquery.googleapis.com/bigquery/v2/projects/PromotionAB/jobs?prettyPrint=false: ProjectId must be non-empty
+
+Location: None
+Job ID: d7afa4e0-bc16-4a2c-8558-595354fefdd5
+
+2025-10-08 22:10:10,231 - WARNING - ⚠️ distribution_centers 다운로드 실패 (시도 1): 400 POST https://bigquery.googleapis.com/bigquery/v2/projects/PromotionAB/jobs?prettyPrint=false: ProjectId must be non-empty
+
+Location: None
+Job ID: 1e42544d-4645-4038-8955-703c8ea4e20b
+
+2025-10-08 22:10:10,241 - WARNING - ⚠️ users 다운로드 실패 (시도 1): 400 POST https://bigquery.googleapis.com/bigquery/v2/projects/PromotionAB/jobs?prettyPrint=false: ProjectId must be non-empty
+
+Location: None
+Job ID: eca344e5-13ce-4672-ac73-421df6927479
+
+2025-10-08 22:10:10,241 - WARNING - ⚠️ order_items 다운로드 실패 (시도 1): 400 POST https://bigquery.googleapis.com/bigquery/v2/projects/PromotionAB/jobs?prettyPrint=false: ProjectId must be non-empty
+
+Location: None
+Job ID: e813498c-4905-48f7-be3e-15d55ff1ccc9
+
+2025-10-08 22:10:10,241 - WARNING - ⚠️ events 다운로드 실패 (시도 1): 400 POST https://bigquery.googleapis.com/bigquery/v2/projects/PromotionAB/jobs?prettyPrint=false: ProjectId must be non-empty
+
+Location: None
+Job ID: 31632360-e001-497c-ad8c-465cf82e0520
+
+2025-10-08 22:10:10,243 - WARNING - ⚠️ orders 다운로드 실패 (시도 1): 400 POST https://bigquery.googleapis.com/bigquery/v2/projects/PromotionAB/jobs?prettyPrint=false: ProjectId must be non-empty
+
+Location: None
+Job ID: 952c209f-1569-4539-a7d7-c3c508b1034d
+
+2025-10-08 22:10:13,234 - WARNING - ⚠️ inventory_items 다운로드 실패 (시도 2): 400 POST https://bigquery.googleapis.com/bigquery/v2/projects/PromotionAB/jobs?prettyPrint=false: ProjectId must be non-empty
+
+Location: None
+Job ID: f8aba6bf-9dfc-430d-a417-9ad68d13dd03
+
+2025-10-08 22:10:13,243 - WARNING - ⚠️ products 다운로드 실패 (시도 2): 400 POST https://bigquery.googleapis.com/bigquery/v2/projects/PromotionAB/jobs?prettyPrint=false: ProjectId must be non-empty
+
+Location: None
+Job ID: 37f9956b-7878-46b5-925b-808ee751ed82
+
+2025-10-08 22:10:13,250 - WARNING - ⚠️ distribution_centers 다운로드 실패 (시도 2): 400 POST https://bigquery.googleapis.com/bigquery/v2/projects/PromotionAB/jobs?prettyPrint=false: ProjectId must be non-empty
+
+Location: None
+Job ID: 5f6b4a51-f778-42a9-af39-9de7171131e7
+
+2025-10-08 22:10:13,259 - WARNING - ⚠️ order_items 다운로드 실패 (시도 2): 400 POST https://bigquery.googleapis.com/bigquery/v2/projects/PromotionAB/jobs?prettyPrint=false: ProjectId must be non-empty
+
+Location: None
+Job ID: d7be6ab0-c2b7-4e7d-ae57-07c8ca7453b3
+
+2025-10-08 22:10:13,259 - WARNING - ⚠️ users 다운로드 실패 (시도 2): 400 POST https://bigquery.googleapis.com/bigquery/v2/projects/PromotionAB/jobs?prettyPrint=false: ProjectId must be non-empty
+
+Location: None
+Job ID: a1a5f07f-714d-4df6-9ffa-7135c902be0b
+
+2025-10-08 22:10:13,260 - WARNING - ⚠️ orders 다운로드 실패 (시도 2): 400 POST https://bigquery.googleapis.com/bigquery/v2/projects/PromotionAB/jobs?prettyPrint=false: ProjectId must be non-empty
+
+Location: None
+Job ID: 03ec656a-0f74-43af-9196-edb50faeaa01
+
+2025-10-08 22:10:13,260 - WARNING - ⚠️ events 다운로드 실패 (시도 2): 400 POST https://bigquery.googleapis.com/bigquery/v2/projects/PromotionAB/jobs?prettyPrint=false: ProjectId must be non-empty
+
+Location: None
+Job ID: 65913058-1851-4341-87d4-8f7b961d0f35
+
+2025-10-08 22:10:19,249 - WARNING - ⚠️ inventory_items 다운로드 실패 (시도 3): 400 POST https://bigquery.googleapis.com/bigquery/v2/projects/PromotionAB/jobs?prettyPrint=false: ProjectId must be non-empty
+
+Location: None
+Job ID: ad77ab80-31f5-4bc4-8222-3974143a506d
+
+2025-10-08 22:10:19,265 - WARNING - ⚠️ products 다운로드 실패 (시도 3): 400 POST https://bigquery.googleapis.com/bigquery/v2/projects/PromotionAB/jobs?prettyPrint=false: ProjectId must be non-empty
+
+Location: None
+Job ID: ddf46f98-0804-4860-8f71-d716ebd8e435
+
+2025-10-08 22:10:19,266 - WARNING - ⚠️ distribution_centers 다운로드 실패 (시도 3): 400 POST https://bigquery.googleapis.com/bigquery/v2/projects/PromotionAB/jobs?prettyPrint=false: ProjectId must be non-empty
+
+Location: None
+Job ID: 51732b3b-26cc-4835-8068-fbdf194cd769
+
+2025-10-08 22:10:19,271 - WARNING - ⚠️ order_items 다운로드 실패 (시도 3): 400 POST https://bigquery.googleapis.com/bigquery/v2/projects/PromotionAB/jobs?prettyPrint=false: ProjectId must be non-empty
+
+Location: None
+Job ID: 240914bf-f71c-4abb-b67a-11674359e08b
+
+2025-10-08 22:10:19,272 - WARNING - ⚠️ users 다운로드 실패 (시도 3): 400 POST https://bigquery.googleapis.com/bigquery/v2/projects/PromotionAB/jobs?prettyPrint=false: ProjectId must be non-empty
+
+Location: None
+Job ID: 2dc57a3d-fd7c-4e15-bd6e-dd62ba88924e
+
+2025-10-08 22:10:19,274 - WARNING - ⚠️ events 다운로드 실패 (시도 3): 400 POST https://bigquery.googleapis.com/bigquery/v2/projects/PromotionAB/jobs?prettyPrint=false: ProjectId must be non-empty
+
+Location: None
+Job ID: e731c751-099d-4657-a852-dcd380aace54
+
+2025-10-08 22:10:19,275 - WARNING - ⚠️ orders 다운로드 실패 (시도 3): 400 POST https://bigquery.googleapis.com/bigquery/v2/projects/PromotionAB/jobs?prettyPrint=false: ProjectId must be non-empty
+
+Location: None
+Job ID: a5130269-b43d-487c-bef0-dc1b27dca9b4
+
+2025-10-08 22:10:28,255 - ERROR - ❌ inventory_items 완전 실패, 로그에 기록됨.
+2025-10-08 22:10:28,273 - ERROR - ❌ products 완전 실패, 로그에 기록됨.
+2025-10-08 22:10:28,273 - ERROR - ❌ order_items 완전 실패, 로그에 기록됨.
+2025-10-08 22:10:28,273 - ERROR - ❌ distribution_centers 완전 실패, 로그에 기록됨.
+2025-10-08 22:10:28,275 - ERROR - ❌ users 완전 실패, 로그에 기록됨.
+2025-10-08 22:10:28,277 - ERROR - ❌ events 완전 실패, 로그에 기록됨.
+2025-10-08 22:10:28,277 - ERROR - ❌ orders 완전 실패, 로그에 기록됨.
+2025-10-08 22:15:49,348 - INFO - ✅ BigQuery 인증 성공
+2025-10-08 22:15:50,360 - WARNING - ⚠️ orders 다운로드 실패 (시도 1): 400 Unrecognized name: id at [1:8]; reason: invalidQuery, location: query, message: Unrecognized name: id at [1:8]
+
+Location: US
+Job ID: 4db22bf3-e5ba-44ce-9045-26c28d137823
+
+2025-10-08 22:15:50,709 - WARNING - ⚠️ distribution_centers 다운로드 실패 (시도 1): Please install the 'db-dtypes' package to use this function.
+2025-10-08 22:15:51,979 - WARNING - ⚠️ users 다운로드 실패 (시도 1): Please install the 'db-dtypes' package to use this function.
+2025-10-08 22:15:52,603 - WARNING - ⚠️ order_items 다운로드 실패 (시도 1): Please install the 'db-dtypes' package to use this function.
+2025-10-08 22:15:52,860 - WARNING - ⚠️ inventory_items 다운로드 실패 (시도 1): Please install the 'db-dtypes' package to use this function.
+2025-10-08 22:15:53,959 - WARNING - ⚠️ orders 다운로드 실패 (시도 2): 400 Unrecognized name: id at [1:8]; reason: invalidQuery, location: query, message: Unrecognized name: id at [1:8]
+
+Location: US
+Job ID: 082f5e57-dbba-493c-9e90-8d73b538e403
+
+2025-10-08 22:15:54,740 - WARNING - ⚠️ distribution_centers 다운로드 실패 (시도 2): Please install the 'db-dtypes' package to use this function.
+2025-10-08 22:15:55,222 - WARNING - ⚠️ products 다운로드 실패 (시도 1): Please install the 'db-dtypes' package to use this function.
+2025-10-08 22:15:55,934 - WARNING - ⚠️ users 다운로드 실패 (시도 2): Please install the 'db-dtypes' package to use this function.
+2025-10-08 22:15:56,779 - WARNING - ⚠️ order_items 다운로드 실패 (시도 2): Please install the 'db-dtypes' package to use this function.
+2025-10-08 22:15:57,195 - WARNING - ⚠️ inventory_items 다운로드 실패 (시도 2): Please install the 'db-dtypes' package to use this function.
+2025-10-08 22:15:59,161 - WARNING - ⚠️ products 다운로드 실패 (시도 2): Please install the 'db-dtypes' package to use this function.
+2025-10-08 22:16:00,722 - WARNING - ⚠️ orders 다운로드 실패 (시도 3): 400 Unrecognized name: id at [1:8]; reason: invalidQuery, location: query, message: Unrecognized name: id at [1:8]
+
+Location: US
+Job ID: 2b790177-513f-4663-b061-ef430335fdb0
+
+2025-10-08 22:16:01,881 - WARNING - ⚠️ distribution_centers 다운로드 실패 (시도 3): Please install the 'db-dtypes' package to use this function.
+2025-10-08 22:16:02,829 - WARNING - ⚠️ users 다운로드 실패 (시도 3): Please install the 'db-dtypes' package to use this function.
+2025-10-08 22:16:03,825 - WARNING - ⚠️ order_items 다운로드 실패 (시도 3): Please install the 'db-dtypes' package to use this function.
+2025-10-08 22:16:04,286 - WARNING - ⚠️ inventory_items 다운로드 실패 (시도 3): Please install the 'db-dtypes' package to use this function.
+2025-10-08 22:16:06,312 - WARNING - ⚠️ products 다운로드 실패 (시도 3): Please install the 'db-dtypes' package to use this function.
+2025-10-08 22:16:06,868 - WARNING - ⚠️ events 다운로드 실패 (시도 1): Please install the 'db-dtypes' package to use this function.
+2025-10-08 22:16:09,728 - ERROR - ❌ orders 완전 실패, 로그에 기록됨.
+2025-10-08 22:16:10,884 - ERROR - ❌ distribution_centers 완전 실패, 로그에 기록됨.
+2025-10-08 22:16:11,228 - WARNING - ⚠️ events 다운로드 실패 (시도 2): Please install the 'db-dtypes' package to use this function.
+2025-10-08 22:16:11,835 - ERROR - ❌ users 완전 실패, 로그에 기록됨.
+2025-10-08 22:16:12,832 - ERROR - ❌ order_items 완전 실패, 로그에 기록됨.
+2025-10-08 22:16:13,293 - ERROR - ❌ inventory_items 완전 실패, 로그에 기록됨.
+2025-10-08 22:16:15,316 - ERROR - ❌ products 완전 실패, 로그에 기록됨.
+2025-10-08 22:16:18,664 - WARNING - ⚠️ events 다운로드 실패 (시도 3): Please install the 'db-dtypes' package to use this function.
+2025-10-08 22:16:27,669 - ERROR - ❌ events 완전 실패, 로그에 기록됨.
+2025-10-08 22:23:37,751 - INFO - ✅ BigQuery 인증 성공
+2025-10-08 22:23:38,656 - WARNING - ⚠️ orders 다운로드 실패 (시도 1): 400 Unrecognized name: total_amount at [1:39]; reason: invalidQuery, location: query, message: Unrecognized name: total_amount at [1:39]
+
+Location: US
+Job ID: 3edbeb03-aa98-4ca7-8a19-ab7c584dd744
+
+2025-10-08 22:23:38,997 - WARNING - ⚠️ distribution_centers 다운로드 실패 (시도 1): Please install the 'db-dtypes' package to use this function.
+2025-10-08 22:23:39,082 - WARNING - ⚠️ products 다운로드 실패 (시도 1): Please install the 'db-dtypes' package to use this function.
+2025-10-08 22:23:39,087 - WARNING - ⚠️ events 다운로드 실패 (시도 1): Please install the 'db-dtypes' package to use this function.
+2025-10-08 22:23:39,173 - WARNING - ⚠️ users 다운로드 실패 (시도 1): Please install the 'db-dtypes' package to use this function.
+2025-10-08 22:23:39,230 - WARNING - ⚠️ inventory_items 다운로드 실패 (시도 1): Please install the 'db-dtypes' package to use this function.
+2025-10-08 22:23:39,234 - WARNING - ⚠️ order_items 다운로드 실패 (시도 1): Please install the 'db-dtypes' package to use this function.
+2025-10-08 22:23:42,186 - WARNING - ⚠️ orders 다운로드 실패 (시도 2): 400 Unrecognized name: total_amount at [1:39]; reason: invalidQuery, location: query, message: Unrecognized name: total_amount at [1:39]
+
+Location: US
+Job ID: 9de44119-96dc-4f05-a9b2-06667d55060b
+
+2025-10-08 22:23:42,815 - WARNING - ⚠️ distribution_centers 다운로드 실패 (시도 2): Please install the 'db-dtypes' package to use this function.
+2025-10-08 22:23:43,093 - WARNING - ⚠️ products 다운로드 실패 (시도 2): Please install the 'db-dtypes' package to use this function.
+2025-10-08 22:23:43,147 - WARNING - ⚠️ events 다운로드 실패 (시도 2): Please install the 'db-dtypes' package to use this function.
+2025-10-08 22:23:43,247 - WARNING - ⚠️ users 다운로드 실패 (시도 2): Please install the 'db-dtypes' package to use this function.
+2025-10-08 22:23:43,364 - WARNING - ⚠️ order_items 다운로드 실패 (시도 2): Please install the 'db-dtypes' package to use this function.
+2025-10-08 22:23:43,387 - WARNING - ⚠️ inventory_items 다운로드 실패 (시도 2): Please install the 'db-dtypes' package to use this function.
+2025-10-08 22:23:48,836 - WARNING - ⚠️ orders 다운로드 실패 (시도 3): 400 Unrecognized name: total_amount at [1:39]; reason: invalidQuery, location: query, message: Unrecognized name: total_amount at [1:39]
+
+Location: US
+Job ID: cdc8c782-ed8b-4bb7-ba64-fc08edae559d
+
+2025-10-08 22:23:49,816 - WARNING - ⚠️ distribution_centers 다운로드 실패 (시도 3): Please install the 'db-dtypes' package to use this function.
+2025-10-08 22:23:50,100 - WARNING - ⚠️ events 다운로드 실패 (시도 3): Please install the 'db-dtypes' package to use this function.
+2025-10-08 22:23:50,165 - WARNING - ⚠️ products 다운로드 실패 (시도 3): Please install the 'db-dtypes' package to use this function.
+2025-10-08 22:23:50,216 - WARNING - ⚠️ users 다운로드 실패 (시도 3): Please install the 'db-dtypes' package to use this function.
+2025-10-08 22:23:50,307 - WARNING - ⚠️ inventory_items 다운로드 실패 (시도 3): Please install the 'db-dtypes' package to use this function.
+2025-10-08 22:23:50,400 - WARNING - ⚠️ order_items 다운로드 실패 (시도 3): Please install the 'db-dtypes' package to use this function.
+2025-10-08 22:23:57,842 - ERROR - ❌ orders 완전 실패, 로그에 기록됨.
+2025-10-08 22:23:58,822 - ERROR - ❌ distribution_centers 완전 실패, 로그에 기록됨.
+2025-10-08 22:23:59,106 - ERROR - ❌ events 완전 실패, 로그에 기록됨.
+2025-10-08 22:23:59,171 - ERROR - ❌ products 완전 실패, 로그에 기록됨.
+2025-10-08 22:23:59,222 - ERROR - ❌ users 완전 실패, 로그에 기록됨.
+2025-10-08 22:23:59,313 - ERROR - ❌ inventory_items 완전 실패, 로그에 기록됨.
+2025-10-08 22:23:59,406 - ERROR - ❌ order_items 완전 실패, 로그에 기록됨.
+2025-10-08 22:35:37,901 - INFO - ✅ BigQuery 인증 성공
+2025-10-08 22:35:41,198 - INFO - ✅ distribution_centers 저장 완료 : /Users/jun/GitStudy/commerceAB/data/distribution_centers_gzip.parquet
+
+2025-10-08 22:35:49,278 - INFO - ✅ products 저장 완료 : /Users/jun/GitStudy/commerceAB/data/products_gzip.parquet
+
+2025-10-08 22:35:53,652 - INFO - ✅ users 저장 완료 : /Users/jun/GitStudy/commerceAB/data/users_gzip.parquet
+
+2025-10-08 22:36:01,416 - INFO - ✅ orders 저장 완료 : /Users/jun/GitStudy/commerceAB/data/orders_gzip.parquet
+
+2025-10-08 22:36:20,195 - INFO - ✅ order_items 저장 완료 : /Users/jun/GitStudy/commerceAB/data/order_items_gzip.parquet
+
+2025-10-08 22:36:43,020 - INFO - ✅ inventory_items 저장 완료 : /Users/jun/GitStudy/commerceAB/data/inventory_items_gzip.parquet
+
